@@ -13,11 +13,6 @@ An intelligent Android application that uses **TensorFlow Lite** and **on-device
 
 <div align="center">
 
--- App Logo --
-
-![pic1](https://i.postimg.cc/k4q3Vwyh/1.png)
-
-
 
 -- App UI Interface --
 
