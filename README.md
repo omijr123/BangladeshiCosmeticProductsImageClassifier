@@ -18,9 +18,11 @@ An intelligent Android application that uses **TensorFlow Lite** and **on-device
 ![pic1](https://i.postimg.cc/k4q3Vwyh/1.png)
 
 
--- App UI --
+
+-- App UI Interface --
 
 ![pic2](https://i.postimg.cc/Bnhf82zD/Screenshot-2025-11-24-191027.png)
+
 
 
 -- Android Studio Working Space --
