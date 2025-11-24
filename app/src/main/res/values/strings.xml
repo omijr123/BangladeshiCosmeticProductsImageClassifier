@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Bangladeshi Cosmetic Products Classifier</string>
+
+    <!-- Camera Button Text -->
+    <string name="take_picture">Capture Product Image</string>
+
+    <!-- Result Headers -->
+    <string name="classified_as">Classified as:</string>
+    <string name="confidences">Confidence Levels:</string>
+
+    <!-- Image Description -->
+    <string name="content_description">Captured image for classification</string>
+
+    <!-- UI Text for Preview Screen -->
+    <string name="snack_preview">Product Preview</string>
+    <string name="tap_to_capture">Tap camera button below to capture</string>
+    <string name="no_data_message">No classification data yet. Capture an image to see results.</string>
+
+    <!-- Error & info messages used in Java code -->
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="model_initialization_failed">Model initialization failed</string>
+    <string name="model_processing_failed">Model processing failed</string>
+    <string name="no_results">No results</string>
+    <string name="unknown_class">Unknown Class</string>
+
+</resources>
