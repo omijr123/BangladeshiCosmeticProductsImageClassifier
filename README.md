@@ -14,26 +14,27 @@ An intelligent Android application that uses **TensorFlow Lite** and **on-device
 <div align="center">
 
 
+
 -- App UI Interface --
 
-![pic2](https://i.postimg.cc/Bnhf82zD/Screenshot-2025-11-24-191027.png)
+![pic1](https://i.postimg.cc/pL0Qgd9b/2.jpg)
 
 
 
 -- Android Studio Working Space --
 
-![pic3](https://i.postimg.cc/nck65vpw/Screenshot-2025-11-24-191133.png)
+![pic2](https://i.postimg.cc/nck65vpw/Screenshot-2025-11-24-191133.png)
 
 
-![pic4](https://i.postimg.cc/KYdVLfDn/Screenshot-2025-11-24-191150.png)
+![pic3](https://i.postimg.cc/KYdVLfDn/Screenshot-2025-11-24-191150.png)
 
 
-![pic5](https://i.postimg.cc/kXfpwqvN/Screenshot-2025-11-24-191211.png)
+![pic4](https://i.postimg.cc/kXfpwqvN/Screenshot-2025-11-24-191211.png)
 
 
 -- Android Studio ( Camera Classification & Results Screen ) --
 
-![pic6](https://i.postimg.cc/mgj6XR3N/Screenshot-2025-11-24-190423.png)
+![pic5](https://i.postimg.cc/mgj6XR3N/Screenshot-2025-11-24-190423.png)
 
 
 </div>
